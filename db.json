@@ -2,11 +2,11 @@
   "manuals": [
     {
       "title": "support.technicalService",
-      "title": "https://elia.bigogno.it"
+      "url": "https://elia.bigogno.it"
     },
     {
       "title": "support.userManual",
-      "title": "https://bigogno.it"
+      "url": "https://bigogno.it"
     }
   ],
   "profile": {
